@@ -1,0 +1,89 @@
+# ==================== BUILD OUTPUT ====================
+# Platform/configuration build directories
+x64/
+Win32/
+ARM/
+ARM64/
+Debug/
+Release/
+*.exe
+*.exe.recipe
+*.scr
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# ==================== VISUAL STUDIO ====================
+# User-specific files
+*.vcxproj.user
+*.vcxproj.filters.user
+*.sln.docstates
+*.suo
+*.user
+*.db
+*.sdf
+*.opensdf
+*.opendb
+*.vcxproj.*.user
+UpgradeLog*.htm
+
+# ==================== VS CODE ====================
+.vscode/
+*.code-workspace
+
+# ==================== vcpkg ====================
+# vcpkg build artifacts and installed packages
+vcpkg_installed/
+vcpkg-manifest-install.log
+vcpkg.json
+*.vcpkg-root
+
+# ==================== BUILD TOOLS ====================
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+CMakeUserPresets.json
+*.cmake
+Makefile
+build/
+
+# ==================== NUKE / CLEAN ROOMS ====================
+.nuke/
+clean.*
+
+# ==================== VS CORE TOOLS ====================
+# IntelliSense / intermediate files
+*.VC.db
+*.VC.VC.opendb
+*.VC.opendb
+ipch/
+*.ipch
+*.tlog/
+
+# ==================== WINDOWS ====================
+# Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# ==================== MISC ====================
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+*.tmp
+.idea/
+*.DS_Store

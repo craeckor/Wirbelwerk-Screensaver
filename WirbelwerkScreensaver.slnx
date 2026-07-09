@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WirbelwerkScreensaver/WirbelwerkScreensaver.vcxproj" Id="5f046a4e-3eed-473f-9e08-1f6ad73a65d6" />
+</Solution>
