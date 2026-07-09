@@ -4,6 +4,9 @@ A GPU-accelerated fluid simulation screensaver for Windows. Wirbelwerk (German f
 
 Built on **OpenGL 3.3 Core** via **GLFW** and **GLAD**, the simulation runs a full Eulerian fluid solver (advection, pressure projection, vorticity confinement) entirely on the GPU using fragment shaders and floating-point framebuffers.
 
+The following image shows the screensaver in action on an x64 virtual machine with a minimal version of Windows 10 (version 10240). The machine has 1 GB of RAM, one thread, and passed-through 3D acceleration based on an RTX 2070 Super. It also has VMware Tools and minimal resource usage. There are no Microsoft Visual C++ Redistributables installed.
+![Screensaver in Action](Screenshot_2026-07-09_232850.png "Screensaver in Action")
+
 ---
 
 ## Table of Contents
