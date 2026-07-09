@@ -87,7 +87,7 @@ The following image shows the screensaver in action on an x64 virtual machine wi
 
 ### Quick Install (Pre-built Binary)
 
-1. Download the latest `Wirbelwerk.scr` from the [Releases](https://github.com/your-username/WirbelwerkScreensaver/releases) page.
+1. Download the latest `Wirbelwerk.scr` from the [Releases](https://github.com/craeckor/Wirbelwerk-Screensaver/releases) page.
 2. Right-click the `.scr` file and select **Install** (or copy it to `C:\Windows\System32\` manually).
 3. Open **Windows Settings** → **Personalization** → **Lock screen** → **Screen saver settings**.
 4. Select **Wirbelwerk** from the drop-down list.
